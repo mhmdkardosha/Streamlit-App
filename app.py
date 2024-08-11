@@ -5,8 +5,6 @@ from PIL import Image
 import numpy as np
 from datetime import datetime
 import requests
-from PIL import Image
-import streamlit as st
 from io import BytesIO
 
 st.header('Premier League matches prediction')

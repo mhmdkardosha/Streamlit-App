@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+numpy
+requests
+openpyxl
+pickle
+PIL
+datetime
+io

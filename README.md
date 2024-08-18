@@ -14,4 +14,5 @@
 - This model is not so good and it's not reliable, but we can do some work on it and improve it more in the future.
 - Maybe after some improvements you can use it for your purpose to win points in Fantasy game :)
 
-I hope you enjoy playing and predicting, you can do it [here](https://premier-league-matches-prediction-ieee-competition.streamlit.app/).
+I hope you enjoy playing and predicting.
+This is the link to my [Streamlit App](https://premier-league-matches-prediction-ieee-competition.streamlit.app/).

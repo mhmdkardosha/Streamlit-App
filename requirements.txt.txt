@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+numpy==1.26.4
+catboost
+xgboost
+lightgbm

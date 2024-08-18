@@ -1,3 +1,5 @@
+# Premier League matches prediction project
+
 - This is my first Streamlit app.
 - I trained a machine learning model on some features to predict premier league match results.
 - In this app, you can choose the following features:
